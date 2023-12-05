@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 5px;
+}
+
+body {
+    font-family: Verdana, Arial, sans-serif;
+    color: #1c1c1c;
+    background-color: #9a9a9a;
+    line-height: 1.5;
+}
+
+.container {
+    width: 700px;
+    margin: 20px auto;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: #cdcdcd;
+    padding: 0;
+}
+
+header { 
+    margin: 0;
+}
+header h1 {
+    border-radius: 20px 20px 0 0;
+    border-bottom: 1px solid;
+    background-color: lightblue;
+    padding: 2px;
+    margin: 0;
+    text-align: center; 
+}
+header h2 { 
+    font-size: 1.25em;
+    margin: 15px 20px;
+}
+
+form {
+    margin: 10px 20px;
+}
+
+.f-label {
+    font-weight: bold;
+}
+
+.f-select {
+    padding: 1px;
+    width: 65%;
+}
+
+.f-submit {
+    padding: 1px;
+}
+
+button {
+    padding: 1px;
+}
+
+#course_list { 
+    width: 85%;
+    margin: 10px auto 35px auto;
+}
+
+li {
+    list-style-type: none;
+}
+
+#summary {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    padding: 10px;
+}
+
+.ThemeSwitch {
+    text-align: right;
+}
+
+#switch {
+    color: white;
+    background-color: black;
+    padding: 4px; 
+}

@@ -1,0 +1,338 @@
+[
+{
+"title": "CNIT 11",
+"desc": "IT Professional Conduct",
+"units": 1
+},
+{
+"title": "CNIT 34",
+"desc": "Computer Technology Skills for Teachers",
+"units": 3
+},
+{
+"title": "CNIT 40",
+"desc": "DNS Security",
+"units": 1
+},
+{
+"title": "CNIT 50",
+"desc": "Network Security Monitoring",
+"units": 1
+},
+{
+"title": "CNIT 100",
+"desc": "Intro to Computers Using PC's",
+"units": 3
+},
+{
+"title": "CNIT 100M",
+"desc": "lntro to Computers Using Macintosh",
+"units": 3
+},
+{
+"title": "CNIT 101",
+"desc": "Operating Systems I - Windows",
+"units": 3
+},
+{
+"title": "CNIT 102",
+"desc": "Operating Systems II - Command Line",
+"units": 3
+},
+{
+"title": "CNIT 103",
+"desc": "Computer Hardware",
+"units": 3
+},
+{
+"title": "CNIT 103L",
+"desc": "Computer Hardware Lab",
+"units": 1
+},
+{
+"title": "CNIT 103M",
+"desc": "Apple Mac Hardware",
+"units": 3
+},
+{
+"title": "CNIT 104",
+"desc": "Operating Systems Technologies",
+"units": 3
+},
+{
+"title": "CNIT 105",
+"desc": "IT Customer Support",
+"units": 3
+},
+{
+"title": "CNIT 105L",
+"desc": "Computer Technical Support",
+"units": 1
+},
+{
+"title": "CNIT 106",
+"desc": "Introduction to Networks",
+"units": 3
+},
+{
+"title": "CNIT 106A",
+"desc": "Introduction to Networking",
+"units": 1
+},
+{
+"title": "CNIT 107",
+"desc": "Wireless LANs",
+"units": 3
+},
+{
+"title": "CNIT 108",
+"desc": "Wireless Networks, Advanced",
+"units": 3
+},
+{
+"title": "CNIT 113",
+"desc": "Technology of Smartphones & Mobile Devices",
+"units": 3
+},
+{
+"title": "CNIT 120",
+"desc": "Network Security",
+"units": 3
+},
+{
+"title": "CNIT 121",
+"desc": "Computer Forensics",
+"units": 3
+},
+{
+"title": "CNIT 122",
+"desc": "Firewalls",
+"units": 3
+},
+{
+"title": "CNIT 123",
+"desc": "Ethical Hacking & Network Defense",
+"units": 3
+},
+{
+"title": "CNIT 124",
+"desc": "Advanced Ethical Hacking",
+"units": 3
+},
+{
+"title": "CNIT 125",
+"desc": "Information Security Professional Practices",
+"units": 3
+},
+{
+"title": "CNIT 126",
+"desc": "Practical Malware Analysis",
+"units": 3
+},
+{
+"title": "CNIT 127",
+"desc": "Exploit Development",
+"units": 3
+},
+{
+"title": "CNIT 128",
+"desc": "Hacking Mobile Devices",
+"units": 3
+},
+{
+"title": "CNIT 129",
+"desc": "Social Media, Blogs in Web Development",
+"units": 3
+},
+{
+"title": "CNIT 129S",
+"desc": "Securing Web Applications",
+"units": 3
+},
+{
+"title": "CNIT 131",
+"desc": "Internet Basics and Beginning HTML",
+"units": 3
+},
+{
+"title": "CNIT 131A",
+"desc": "XML and JSON",
+"units": 3
+},
+{
+"title": "CNIT 131H",
+"desc": "Introduction to HTML and CSS",
+"units": 1
+},
+{
+"title": "CNIT 132",
+"desc": "Intermediate HTML and CSS",
+"units": 3
+},
+{
+"title": "CNIT 132A",
+"desc": "Advanced HTML and CSS",
+"units": 3
+},
+{
+"title": "CNIT 133",
+"desc": "JavaScript, jQuery, AJAX",
+"units": 3
+},
+{
+"title": "CNIT 133A",
+"desc": "JavaScript Libraries/Frameworks",
+"units": 3
+},
+{
+"title": "CNIT 133I",
+"desc": "JavaScript for IoT and XR",
+"units": 3
+},
+{
+"title": "CNIT 133M",
+"desc": "Mobile Web w/HTML, CSS & JS",
+"units": 3
+},
+{
+"title": "CNIT 134",
+"desc": "Server Side Technologies for the Web",
+"units": 3
+},
+{
+"title": "CNIT 140",
+"desc": "IT Security Practices",
+"units": 3
+},
+{
+"title": "CNIT 141",
+"desc": "Cryptography for Computer Networks",
+"units": 3
+},
+{
+"title": "CNIT 151",
+"desc": "Introduction to Virtualization",
+"units": 3
+},
+{
+"title": "CNIT 152",
+"desc": "Incident Response",
+"units": 3
+},
+{
+"title": "CNIT 153",
+"desc": "VMware: Install, Configure, Manage",
+"units": 3
+},
+{
+"title": "CNIT 154",
+"desc": "EMC - Information Storage and Management",
+"units": 3
+},
+{
+"title": "CNIT 155",
+"desc": "AWS Cloud Practitioner",
+"units": 3
+},
+{
+"title": "CNIT 160",
+"desc": "Cybersecurity Responsibilities",
+"units": 3
+},
+{
+"title": "CNIT 170",
+"desc": "Introduction to Cloud Computing",
+"units": 3
+},
+{
+"title": "CNIT 182",
+"desc": "Hacking and Securing Automotive Systems",
+"units": 3
+},
+{
+"title": "CNIT 195",
+"desc": "Web Development Capstone",
+"units": 3
+},
+{
+"title": "CNIT 197",
+"desc": "Internship and Work Experience",
+"units": 1
+},
+{
+"title": "CNIT 198",
+"desc": "Internship and Work Experience",
+"units": 2
+},
+{
+"title": "CNIT 201C",
+"desc": "Introduction to Cisco Networks",
+"units": 3
+},
+{
+"title": "CNIT 202C",
+"desc": "Routing and Switching Essentials",
+"units": 3
+},
+{
+"title": "CNIT 203C",
+"desc": "Scaling Networks",
+"units": 3
+},
+{
+"title": "CNIT 204C",
+"desc": "Connecting Networks",
+"units": 3
+},
+{
+"title": "CNIT 205C",
+"desc": "CCNA Security",
+"units": 3
+},
+{
+"title": "CNIT 214",
+"desc": "Internet of Things",
+"units": 3
+},
+{
+"title": "CNIT 216",
+"desc": "Internet of Things Security",
+"units": 3
+},
+{
+"title": "CNIT 401",
+"desc": "Windows 10 Technical Support",
+"units": 3
+},
+{
+"title": "CNIT 415",
+"desc": "SQL Server Administration",
+"units": 3
+},
+{
+"title": "CNIT 416",
+"desc": "Installing and Configuring Windows Server 2016",
+"units": 3
+},
+{
+"title": "CNIT 417",
+"desc": "Administering Windows Server 2016",
+"units": 3
+},
+{
+"title": "CNIT 418",
+"desc": "Identity With Windows 2016",
+"units": 3
+},
+{
+"title": "CNIT 420",
+"desc": "Configuring and Administering Microsoft Azure",
+"units": 3
+},
+{
+"title": "CNIT 501",
+"desc": "Certified Information Systems Auditor",
+"units": 3
+}
+]
+
